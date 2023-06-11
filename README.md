@@ -49,6 +49,10 @@ void loop() {
   delay(1000); 
 }
 
+
+For wire connection, https://www.youtube.com/watch?v=BBoTkRH2E_I&ab_channel=BuildYourCNC
+
+
 - It worked and the Stepper motor connection is as follow.
 
 ![image](https://github.com/princekham/cnc/assets/16104631/7470da5c-698a-47e5-8604-dacac2e09489)
