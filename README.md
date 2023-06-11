@@ -57,3 +57,6 @@ For wire connection, https://www.youtube.com/watch?v=BBoTkRH2E_I&ab_channel=Buil
 
 ![image](https://github.com/princekham/cnc/assets/16104631/7470da5c-698a-47e5-8604-dacac2e09489)
 
+![image](https://github.com/princekham/cnc/assets/16104631/99b9e9fa-984f-4e48-aeb2-5a194a060181)
+
+
