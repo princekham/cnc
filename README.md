@@ -59,4 +59,4 @@ For wire connection, https://www.youtube.com/watch?v=BBoTkRH2E_I&ab_channel=Buil
 
 ![image](https://github.com/princekham/cnc/assets/16104631/99b9e9fa-984f-4e48-aeb2-5a194a060181)
 
-
+I need a probe control like this : https://www.youtube.com/watch?v=kGa2s47dTss&ab_channel=JD%27sGarage
