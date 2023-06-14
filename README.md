@@ -60,3 +60,8 @@ For wire connection, https://www.youtube.com/watch?v=BBoTkRH2E_I&ab_channel=Buil
 ![image](https://github.com/princekham/cnc/assets/16104631/99b9e9fa-984f-4e48-aeb2-5a194a060181)
 
 I need a probe control like this : https://www.youtube.com/watch?v=kGa2s47dTss&ab_channel=JD%27sGarage
+
+I can use the Gcode setup from here: https://www.youtube.com/watch?v=oHyvrA20QLA&ab_channel=DacVu
+MS - stopping the spindle (here the torch)
+M3 S1000 - starting the spindle (here the torch)
+G4 P1 - waiting for one second before moving the torch
