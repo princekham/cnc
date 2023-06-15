@@ -170,4 +170,6 @@ I hope this helps you connect and configure the Z-axis probe for CNC plasma cutt
 - with the pins out as follow:
 ![image](https://github.com/princekham/cnc/assets/16104631/ba1b0f05-0e55-4a22-9736-607138a4d864)
 
+For generating toolpath I will use Sheetcam Software. The tutorial is at https://www.youtube.com/watch?v=aHRTZOGh3yA&ab_channel=PREMIERPLASMA
+
 
