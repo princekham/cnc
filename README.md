@@ -172,4 +172,6 @@ I hope this helps you connect and configure the Z-axis probe for CNC plasma cutt
 
 For generating toolpath I will use Sheetcam Software. The tutorial is at https://www.youtube.com/watch?v=aHRTZOGh3yA&ab_channel=PREMIERPLASMA
 
+I followed the instructions from this site for GRBL installation - https://howtomechatronics.com/tutorials/how-to-setup-grbl-control-cnc-machine-with-arduino/
+
 
