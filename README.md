@@ -175,6 +175,6 @@ For generating toolpath I will use Sheetcam Software. The tutorial is at https:/
 I followed the instructions from this site for GRBL installation - https://howtomechatronics.com/tutorials/how-to-setup-grbl-control-cnc-machine-with-arduino/
 
 Workbee CNC calibration - https://openbuilds.com/threads/workbee-calibration.16387/
-
+From that I will try with 125/735 steps/mm
 
 
