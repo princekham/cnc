@@ -177,4 +177,10 @@ I followed the instructions from this site for GRBL installation - https://howto
 Workbee CNC calibration - https://openbuilds.com/threads/workbee-calibration.16387/
 From that I will try with 125/735 steps/mm
 
+- Limit Switch Installation
+
+  ![image](https://github.com/princekham/cnc/assets/16104631/0c80b02f-30f5-4179-9a22-291ed2d2433c)
+
+![image](https://github.com/princekham/cnc/assets/16104631/c1bc4803-8436-457b-9e86-ed2fd6103307)
+
 
