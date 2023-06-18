@@ -183,4 +183,12 @@ From that I will try with 125/735 steps/mm
 
 ![image](https://github.com/princekham/cnc/assets/16104631/c1bc4803-8436-457b-9e86-ed2fd6103307)
 
+I set up the limit switch optocouplers as follow
+
+![image](https://github.com/princekham/cnc/assets/16104631/945023d8-ed41-455d-b856-20bf63a38afe)
+
+- And I think I will connect NC type as follow (ref: https://github.com/gnea/grbl/wiki/Wiring-Limit-Switches)
+- However, no capacitor will be installed
+  ![image](https://github.com/princekham/cnc/assets/16104631/3a1a4c2a-6352-4166-82cd-5c8c5ed966fc)
+
 
