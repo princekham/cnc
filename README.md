@@ -191,4 +191,6 @@ I set up the limit switch optocouplers as follow
 - However, no capacitor will be installed
   ![image](https://github.com/princekham/cnc/assets/16104631/3a1a4c2a-6352-4166-82cd-5c8c5ed966fc)
 
+- This site shows how Arduno Grbl is connected to external Stepper Motor Drivers
 
+https://incoherency.co.uk/blog/stories/6040-cnc-grbl-arduino.html
