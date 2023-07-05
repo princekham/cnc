@@ -194,3 +194,17 @@ I set up the limit switch optocouplers as follow
 - This site shows how Arduno Grbl is connected to external Stepper Motor Drivers
 
 https://incoherency.co.uk/blog/stories/6040-cnc-grbl-arduino.html
+
+
+Notes from NCZ
+- Config ထဲမှာ Zero machine coordinate after homing Comment ဖြုတ်ပေးလိုက်နော်
+- ဒါမှ Homing လုပ်ပြီးရင် Machine coordinate က zero ဖြစ်သွားရော
+- မီးပျက်သွားတာတို့ Stop လုပ်လိုက်တာတို့ဆိုရင် G code sender ကမှတ်ပေးထားလို့ လုပ်လက်စတွေ မပျက်စီးသွားတော့ဘူးပေါ့
+
+- ![image](https://github.com/princekham/cnc/assets/16104631/63b76d68-ceaa-4b44-9ae1-b140d88edd96)
+
+- GRBL version အဟောင်းမှာ D11 က Z limit D12 က spindle enable
+- 1.1h ရဲ့ default config မှာကျတော့ D12 က z limit D11 က spindle ဖြစ်သွားတယ်
+- The following is the old version I think
+  
+  ![image](https://github.com/princekham/cnc/assets/16104631/11d13a4c-76d6-4c10-a052-7ebdbeed6e1f)
