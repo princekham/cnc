@@ -7,3 +7,5 @@
 ### Wire Connection
 
 ### Probe Connection
+
+### Running the machine
