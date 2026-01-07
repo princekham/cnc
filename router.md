@@ -1,19 +1,7 @@
 # Router CNC
 ### GRBL File of my machine
-```
-
 
 ```
-### Wire Connection
-
-### Probe Connection
-
-## Running the machine
-- terminal commands
-- '$' for help
-- '$$' for config settings
-- my router config file is as follow
-  ```
 $0=10
 $1=25
 $2=0
@@ -48,8 +36,17 @@ $122=10.000
 $130=85.000
 $131=175.000
 $132=85.000
+```
 
-  ```
+### Wire Connection
+
+### Probe Connection
+
+## Running the machine
+- terminal commands
+- '$' for help
+- '$$' for config settings
+
   
 ### BCNC
 - https://github.com/vlachoudis/bCNC
