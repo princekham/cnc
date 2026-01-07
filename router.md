@@ -38,9 +38,41 @@ $131=175.000
 $132=85.000
 ```
 
-### Wire Connection
+## Wire Connection
+(source: https://www.youtube.com/watch?v=fyH5hU6ctvw)
+Digital Pin 8 is 'stepper motors enable' pins
+<img width="894" height="698" alt="image" src="https://github.com/user-attachments/assets/1283ca84-29f6-4ee0-a936-10f7eb854901" />
 
-### Probe Connection
+Step Direction Pins
+- For X : 2 (step), 5(dir)
+- For Y : 3, 6
+- For Z : 4, 7
+- For extruder : not directly connected to Arduino
+
+<img width="894" height="600" alt="image" src="https://github.com/user-attachments/assets/78420558-7ba1-4f3c-b754-f095bd62dd87" />
+
+- Ground pins
+  <img width="894" height="596" alt="image" src="https://github.com/user-attachments/assets/e2d5106e-8fd2-48cf-9fdf-42e71fc65587" />
+- Digital 12 : Spindle En
+- Digital 13 : Spindle Dir
+- Limit X+,X- : Digital 9
+- Limit Y+,Y- : Digital 10
+- Limit Z+,Z- : Digital 11
+- Abort : A0
+- Hold : A1
+- Resume : A2
+- CoolEn : A3 (Digital 17)
+- SDA : A4 (Digital 18)
+- SCL : A5 (Digital 19)
+- Rx : Digital 0
+- Tx : Digital 1
+  <img width="1793" height="1012" alt="image" src="https://github.com/user-attachments/assets/6097e427-3e81-41f8-9182-b3e6dc855cc1" />
+
+  ### Probe Connection
+  - probe pin is SCL (A5) and GND (according to Google AI)
+  ### Notes on Z+,Z- Limit
+  - For all versions of GRBL v0.9 and higher (including current v1.1), the Z-limit pin and Spindle Enable pin were swapped to allow for variable spindle speed (PWM).
+  - The Solution: You must connect your Z-axis limit switch to the header labeled SpnEn (Spindle Enable) instead of the Z+/- header, or reflash your firmware to disable VARIABLE_SPINDLE.
 
 ## Running the machine
 - terminal commands
