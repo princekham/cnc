@@ -84,3 +84,11 @@ Step Direction Pins
 - https://github.com/vlachoudis/bCNC
 - to run BCNC
   ```python -m bCNC```
+
+### Router Bits
+- 30 degree
+- 0.1x30DEGx3.175x38
+<img width="400" height="889" alt="image" src="https://github.com/user-attachments/assets/3c2b62f3-a560-4682-b472-4ef6ea270592" />
+
+### For Drilling
+- drill pin size 
